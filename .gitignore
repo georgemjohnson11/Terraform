@@ -1,1 +1,4 @@
-secrets.auto.tfvars
+secrets.tf
+.terraform
+*.tfstate
+*.tfstate.bakcup
